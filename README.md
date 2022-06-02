@@ -1,6 +1,6 @@
 # flutter_breaking
 
-A new Flutter project.
+Flutter Breaking Application.
 
 ## Getting Started
 
